@@ -1,2 +1,2 @@
-# 狐狸与猎犬
+# 红色突击者
 netease java exercise
